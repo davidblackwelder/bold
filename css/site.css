@@ -5,6 +5,14 @@
 	--white-color: #dff3e4;
 }
 
+.even {
+	font-weight: bold;
+}
+
+.odd {
+	font-weight: normal;
+}
+
 body {
 	color: var(--dark-color);
 }
