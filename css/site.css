@@ -37,6 +37,10 @@ h6 {
 	color: var(--primary-color);
 }
 
+.logoFont {
+	font-family: "Archivo Black", sans-serif;
+}
+
 .bsicon {
 	color: purple;
 }
