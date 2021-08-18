@@ -3,7 +3,6 @@
 ### A javascript coding exercise using loops. This program displays numbers from 0 to 100 and displays the even numbers in **BOLD**.
 
 <br>
-<br>
 
 ## Technology Used
 
